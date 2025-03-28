@@ -6,4 +6,4 @@ There are three files:
 
 2)Results of the survey
 
-3)Important hilights derived from the open-ended questions of the survey 
+3)Important hilights derived from the open-ended questions of the survey, separated from survey results to avoid re-identification phenomena
